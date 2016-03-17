@@ -2,6 +2,7 @@ analytics:
   twitter: null
   google: null
   facebook: null
+name: James Jellings
 opengraph:
   image: null
   type: null
@@ -12,29 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+purpose: []
+typography_spectrum: 0.84422498033382
+color:
+  saturation: 0.483871
+  brandStrength: 0
+  lightness: 0.4928315
+  brandColors:
+    - '#5C4131'
+    - '#DEB680'
+    - '#D0C5BD'
+    - '#657730'
+    - '#FDD5AD'
+  rhythmicContrast: 0.5555556
 layout_spectrum: 0.09144839132204652
 cta:
   bucket: null
   version: null
   domain: null
-color:
-  saturation: 0.4749920412432402
-  brandStrength: 0.3662510137073696
-  rhythmicContrast: 0.2405598282348365
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  lightness: 0.5657001186627895
-purpose: []
 favicon: null
-name: James Jellings
-typography_spectrum: 0.84422498033382
