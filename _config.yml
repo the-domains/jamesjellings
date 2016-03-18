@@ -1,8 +1,7 @@
+name: James Jellings
 favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 0.09144839132204652
+typography_spectrum: 0.84422498033382
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-typography_spectrum: 0.84422498033382
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.483871
-  brandStrength: 0.4713262
-  lightness: 0.4928315
   brandColors:
     - '#5C4131'
     - '#DEB680'
     - '#D0C5BD'
     - '#657730'
     - '#FDD5AD'
+  brandStrength: 0
+  lightness: 0.4928315
+  saturation: 0.483871
   rhythmicContrast: 0.5555556
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-layout_spectrum: 0.09144839132204652
-name: James Jellings
+purpose: []
