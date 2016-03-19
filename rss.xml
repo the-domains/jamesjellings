@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[James Jellings]]></title>
-        <description><![CDATA[James Jellings]]></description>
+        <title><![CDATA[description test]]></title>
+        <description><![CDATA[description test]]></description>
         <link>https://thegrid.ai/jamesjellings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 19:49:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 13:32:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jamesjellings/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/jamesjellings/65188273-31f4-4df9-a1a8-e0ae2bf3a3bd/index.html</link>
             <guid isPermaLink="false">65188273-31f4-4df9-a1a8-e0ae2bf3a3bd</guid>
             <pubDate>Thu, 17 Mar 2016 12:45:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Another test]]></title>
-            <description><![CDATA[<article><h1>Another test</h1><p>Whatever  not sure. </p></article>]]></description>
-            <link>https://thegrid.ai/jamesjellings/another-test/index.html</link>
-            <guid isPermaLink="false">1475da47-51fd-4807-9b42-ac02bb3f38b0</guid>
-            <pubDate>Thu, 17 Mar 2016 12:30:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
