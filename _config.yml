@@ -1,6 +1,6 @@
 name: James Jellings
 favicon: null
-layout_spectrum: 0.09144839132204652
+layout_spectrum: 0.43127
 typography_spectrum: 0.67432
 collections:
   - index:
@@ -34,7 +34,7 @@ color:
     - '#657730'
     - '#FDD5AD'
   brandStrength: 0
-  lightness: 0.4928315
-  saturation: 0.483871
-  rhythmicContrast: 0.5555556
+  lightness: 0.5
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
